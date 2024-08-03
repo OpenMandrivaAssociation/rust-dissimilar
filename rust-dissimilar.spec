@@ -5,8 +5,8 @@
 %global crate dissimilar
 
 Name:           rust-%{crate}
-Version:        1.0.1
-Release:        1%{?dist}
+Version:        1.0.9
+Release:        1
 Summary:        Diff library with semantic cleanup, based on Google's diff-match-patch
 
 # Upstream license specification: MIT OR Apache-2.0
