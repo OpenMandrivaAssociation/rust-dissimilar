@@ -5,7 +5,7 @@
 %global crate dissimilar
 
 Name:           rust-%{crate}
-Version:        1.0.9
+Version:        1.0.11
 Release:        1
 Summary:        Diff library with semantic cleanup, based on Google's diff-match-patch
 
